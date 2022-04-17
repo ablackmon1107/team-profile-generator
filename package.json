@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablackmon1107/team-profile-generator.git"
+  },
+  "author": "Aireeal Blackmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ablackmon1107/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/ablackmon1107/team-profile-generator#readme",
+  "dependencies": {
+    "mocha": "^9.2.2",
+    "save-dev": "^0.0.1-security"
+  }
+}
